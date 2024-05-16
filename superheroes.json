@@ -48,7 +48,12 @@
       ]
     }
 
-
+  {
+    "name" : "Manuela Puleo",
+    "age" : 17,
+      "secretIdentity" : "Unknown",
+      "powers" : ["none"]
+  }
 
   ]
 
